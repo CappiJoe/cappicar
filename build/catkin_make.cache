@@ -1,0 +1,2 @@
+rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/cappi/cappicar/devel -DCMAKE_INSTALL_PREFIX=/home/cappi/cappicar/install -G Unix Makefiles
